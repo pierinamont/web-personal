@@ -20,11 +20,11 @@ module.exports = {
     fontFamily: {
       sans: ['Archivo', 'sans-serif']
     },
-    fontSize: {
-      sm: '1rem',
-      base: '1.25rem',
-      xl: '2.5rem',
-    }
+    // fontSize: {
+    //   sm: '1rem',
+    //   base: '1.25rem',
+    //   xl: '2.5rem',
+    // }
   },
   plugins: [
   ],
