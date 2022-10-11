@@ -14,7 +14,8 @@ module.exports = {
     colors: {
       'primarycolor': '#6F3DFD',
       'textcolor': '#202020',
-      'white': '#FFFFFF'
+      'white': '#FFFFFF',
+      'primarylight': '#F4F1FF'
       
     },
     fontFamily: {
